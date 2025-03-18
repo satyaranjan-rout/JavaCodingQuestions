@@ -2,7 +2,9 @@
 *A curated list of must-know Interview questions to prepare before any Java interview.*  
 
 ---
+## 📌 **Basic Interview Questions** 
 
+1. **What are Wrapper classes?**
 
 ---
 
