@@ -35,3 +35,6 @@
 ---
 
 🔥 **Happy Coding!** 😎  
+
+## 📌 **KATA QUESTIONS**  
+1. **inspiring Strings** 
